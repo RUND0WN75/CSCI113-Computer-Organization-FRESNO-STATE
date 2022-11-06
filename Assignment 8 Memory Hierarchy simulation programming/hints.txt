@@ -1,0 +1,4 @@
+Program should read in a file
+Remaining 16 bits are offset
+Read, analyze, perform operation until the end of file
+1D array, 2D array. 1D array
